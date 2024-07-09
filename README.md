@@ -1,2 +1,4 @@
 # Kindle_4_Screensavers
-Like the Repository name implies, these are formatted to be screensaver images on a Kindle 4. Check out the read me for everything. 
+If your Kindle isn't jailbroken already, go to https://wiki.mobileread.com/wiki/Kindle4NTHacking to do that and the screensaver hack.
+
+If it is, just drag and drop into the linkss/screensaver folder, restart, and enjoy.
